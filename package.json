@@ -1,8 +1,8 @@
 {
-  "name": "@seshuk/payload-storage-bunny",
-  "version": "1.0.2",
-  "description": "Payload storage adapter for Bunny.net",
-  "author": "Maxim Seshuk",
+  "name": "@collexi-dev/payload-storage-bunny",
+  "version": "1.0.3",
+  "description": "Payload storage adapter for Bunny.net. Fork of @seshuk/payload-storage-bunny.",
+  "author": "Collexi Dev",
   "license": "MIT",
   "repository": {
     "type": "git",
